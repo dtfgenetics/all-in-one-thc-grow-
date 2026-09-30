@@ -13,11 +13,7 @@ Do not deploy this empty repository as another public app. New functionality sho
 
 ## Archive readiness
 
-The only substantive shared artifact retained here, `docs/EVIDENCE_REFERENCE_REGISTRY.md`, has been migrated into the canonical cultivation-tools repository:
-
-`dtfgenetics/Tools/docs/EVIDENCE_REFERENCE_REGISTRY.md`
-
-The migration landed through Tools PR #13. This repository has no alternate branches and no deployable application.
+The only substantive shared artifact that remained here, `docs/EVIDENCE_REFERENCE_REGISTRY.md`, was migrated into the canonical cultivation-tools repository at `dtfgenetics/Tools/docs/EVIDENCE_REFERENCE_REGISTRY.md` through Tools PR #13 and has now been removed from this working tree. Git history preserves the old copy. This repository has no deployable application.
 
 Do not add new product work here. Keep future cultivation-tool evidence policy in `dtfgenetics/Tools`, general education in `dtfgenetics/thc-grow-hub`, diagnostics in `dtfgenetics/Thc-dataset`, and site integration/deployment in `dtfgenetics/Thc`.
 
